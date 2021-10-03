@@ -85,7 +85,7 @@ int main()
                 score = score + 2;
             }
 
-            cout << "Question 7: If given the opportunity, would you engage in sexual activity with a person of the opposite sex? ";
+            cout << "Question 7: If given the oppertunity, would you engage in sexual activity with a person of the opposite sex? ";
             cin >> q7;
             if (q7 == "n")
             {
@@ -169,7 +169,7 @@ int main()
                 score = score + 2;
             }
 
-            cout << "Question 7: If given the opportunity, would you engage in sexual activity with a person of the opposite sex? ";
+            cout << "Question 7: If given the oppertunity, would you engage in sexual activity with a person of the opposite sex? ";
             cin >> q7;
             if (q7 == "n")
             {
@@ -254,7 +254,7 @@ int main()
                 score = score + 2;
             }
 
-            cout << "Question 7: If given the opportunity, would you engage in gay sexual activity? ";
+            cout << "Question 7: If given the oppertunity, would you engage in gay sexual activity? ";
             cin >> q7;
             if (q7 == "n")
             {
